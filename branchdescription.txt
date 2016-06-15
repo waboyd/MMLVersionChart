@@ -1,0 +1,10 @@
+The master branch was not changed.  It contains both PowerPoint files.
+
+branch1 was created from the master branch.  The files were deleted in branch1.  The content in branch2, branch3, and branch4 are to be merged to create different versions within branch1.
+
+branch2 was created from the empty branch1.  MDH.pptx was added to branch2.
+
+branch3 was created from the empty branch1.  branch3 has two tagged commits that each have a png file and a text document.
+
+branch4 was created from the empty branch1.  Only this branchdescription file is in branch4.
+
